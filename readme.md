@@ -5,6 +5,8 @@
 
 ![table](images/table.png)
 
+
+
 ### Bubble Sort
 **1. Pierwsza iteracja**
 1. Zaczynając od pierwszego indeksu, porównujemy pierwszy i drugi element.
