@@ -3,7 +3,7 @@
 ## Algorytmy sortujące
 **Podsumowanie**
 
-![table](images/table.png)
+![table](images/table2.png)
 
 
 
